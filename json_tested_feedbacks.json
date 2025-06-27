@@ -1,0 +1,1002 @@
+[
+    {
+        "feedback_text": "Physics professors explain complex topics clearly but lab equipment is outdated.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "New dorm buildings have great amenities but thin walls reduce privacy.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Financial aid office takes 3+ weeks to respond to urgent requests.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "International student orientation helped me settle in quickly.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Chemistry lab safety protocols are extremely thorough.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Library 24/7 access during finals week is a lifesaver.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Transcript requests require in-person visits - needs digital option.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus food trucks offer delicious diverse options.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Computer science curriculum needs more AI/ML course options.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm elevator outages leave disabled students stranded.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Career center's interview workshops improved my skills.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Math department tutoring center is understaffed.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "New football stadium has amazing seating but poor concessions.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Scholarship portal crashes every deadline day.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Theater department productions are Broadway-quality.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Business school case studies feel 10 years outdated.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Campus shuttle system is unreliable after 8pm.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Disability services quickly accommodated my needs.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Student-run hackathons have great industry sponsors.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Psychology research opportunities exceed expectations.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Lecture hall projectors fail at least once per week.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Parking enforcement gives tickets too aggressively.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus gardens provide peaceful study spaces.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Engineering capstone projects prepare you for real jobs.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Dorm heating fails during coldest winter weeks.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Writing center helped me improve my thesis draft.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Economics professors use current global examples.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Science building restrooms are rarely cleaned.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Work-study paychecks are often delayed.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Cultural festivals showcase amazing diversity.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Nursing clinical rotations are exceptionally organized.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Wi-Fi drops constantly in humanities buildings.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Honors program advisors provide personalized guidance.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Outdoor adventure club trips are unforgettable.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Journalism department's equipment is industry-standard.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Cafeteria food quality declined this semester.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Philosophy debates challenge thinking profoundly.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Campus construction noise starts too early.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Alumni networking events led to my internship.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Statistics software licenses expire mid-semester.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "New student center has excellent study pods.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Bursar's office still uses paper invoices.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Meditation rooms help manage exam stress.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Architecture studio spaces inspire creativity.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm laundry machines eat quarters frequently.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "TA training doesn't cover grading consistency.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Improv comedy club is the highlight of my week.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Anthropology field trips are life-changing.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Lecture capture tech fails during important exams.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Parking ticket appeals take months to process.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free flu shots at campus clinics are convenient.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Social work internships have strong community impact.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Stair railings in older darts are dangerously loose.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Study abroad credit transfers are needlessly complex.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Black Student Union events are empowering.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Music practice rooms need better soundproofing.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "New basketball court has professional flooring.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Double charges on meal plans take weeks to resolve.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free professional headshots boosted my LinkedIn.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Linguistics department needs more faculty.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "All-gender restrooms are well maintained.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Major declaration process is confusing.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Farmers market has fresh organic produce.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Environmental science field equipment is outdated.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus-wide printer outages happen too often.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Disability accommodations are implemented promptly.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Poetry slams draw standing-room-only crowds.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Political science guest speakers are high-profile.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Science building bathrooms lack basic supplies.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Counseling center waitlists are 3+ weeks long.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Marching band builds incredible school spirit.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Creative writing workshops transformed my style.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Dorm common areas need more comfortable seating.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Graduation clearance paperwork is excessive.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Sustainability club's initiatives make real impact.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Astronomy telescopes need calibration.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "New meditation room has ocean sound machines.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Work-study payroll is frequently late.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Volunteer opportunities are well organized.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Nursing simulation labs are state-of-the-art.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Dorm kitchenettes lack basic cooking tools.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Honors thesis advisors are exceptionally supportive.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Campus art walks showcase student talent.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Journalism department's press passes open doors.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Lecture hall chairs are painfully uncomfortable.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Parking permit system favors seniors unfairly.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Peer tutoring saved my calculus grade.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Music theory classes are unnecessarily difficult.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "New rock-climbing wall is professionally designed.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Meal plan opt-out deadline is too early.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Debate team travels to national competitions.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Social work field placements are well-vetted.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Gender-neutral housing options are inclusive.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Scholarship thank-you letters feel impersonal.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Free resume critiques improved my job prospects.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "History department's oral history projects fascinate.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Older dorm elevators break down weekly.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Academic probation notices lack guidance.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus sunrise yoga classes are rejuvenating.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Industrial engineering labs need equipment upgrades.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "The astronomy observatory has outdated telescopes but passionate instructors.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "New science building's glass walls create distracting glare.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Veteran services office processes GI Bill payments slowly.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Quidditch club tournaments are surprisingly competitive.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Marketing professors bring real corporate experience.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm fire alarms trigger from shower steam.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Internship credit approval requires excessive paperwork.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free midnight breakfast during finals reduces stress.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Neuroscience research opportunities attract top students.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Art studio kilns break down mid-semester.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Campus safety escorts respond within 5 minutes.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "A cappella concerts sell out instantly.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Machine learning courses use cutting-edge frameworks.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Chemistry lab fume hoods malfunction frequently.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "TA union strikes disrupted lab sessions.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Medieval combat club is oddly popular.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Biochemistry research has Nobel-winning faculty.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Campus bike share stations are never balanced.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Disability accommodations require yearly reapproval.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Drag show fundraiser broke attendance records.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Philosophy department hosts renowned ethicists.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Lecture hall seats are bolted too close together.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Study abroad scholarships are poorly advertised.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Student-run cafe has the best chai lattes.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Forensic science lab has crime scene simulations.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm WiFi can't handle gaming consoles.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Parking appeals require notarized statements.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Sunset yoga at the quad is magical.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Robotics team wins national championships.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Music practice rooms smell like old instruments.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Honors thesis defenses are scheduled during finals.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Free professional headshots helped my LinkedIn.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Marine biology field trips to the coast.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Gender-neutral bathrooms lack period products.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Late graduation applications incur $200 fees.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Annual mud volleyball tournament is legendary.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "AI ethics course changed my career path.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm washing machines eat quarters.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Financial literacy workshops are life-changing.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Theatre costume shop has professional gear.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus construction detours add 15min to walks.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Scholarship thank-you events feel transactional.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Free grocery shuttle helps food-insecure students.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Cryptography course uses real NSA challenges.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Bio lab autoclaves are constantly backlogged.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus jobs pay below minimum wage.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Black cultural house hosts amazing poets.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Paleontology lab has real dinosaur fossils.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm thermostats are locked at 72\u00b0F.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Mental health counselors are overbooked.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Farmers market accepts meal plan dollars.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Entrepreneurship program secured my startup funding.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Art gallery opening nights have free catering.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Physics demo lab equipment is from the 1990s.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus trees are perfect for hammocking.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Add/drop period is only 3 days long.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free STD testing at health center is discreet.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Arabic language program has native instructors.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm package room loses deliveries weekly.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Student legal services helped with my lease.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Midnight breakfast during finals week rocks.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Cybersecurity lab simulates real hacker attacks.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Chemistry stockroom often lacks basic supplies.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Commencement speaker selection lacks diversity.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Salsa dancing classes fill immediately.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Forensic anthropology lab has real case files.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm recycling bins are always overflowing.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "TA strike canceled my midterm review.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free bike repair clinics save hundreds.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Actuarial science exam pass rates are 90%+.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Lecture hall screens have dead pixels.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Ombudsman resolved my grade dispute fairly.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus dogs reduce stress during finals.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Climate change research gets NSF grants.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Dorm fire drills at 2AM are excessive.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Food pantry prevents student hunger.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Quantum computing course uses real IBM QPUs.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Music building practice rooms are soundproofed.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Work-study jobs favor certain majors unfairly.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Free meditation app subscription for students.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Patent law clinic helped file my invention.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Botany greenhouse has rare carnivorous plants.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "COVID quarantine meals were inedible.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "International food fair had 50+ countries represented.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Game design program has industry mentors.",
+        "predicted_category": "Educational"
+    },
+    {
+        "feedback_text": "Dorm elevators fail during move-in week.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Free Microsoft Office licenses for all students.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Historical sword fighting club is intense.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Biomedical engineering lab has 3D bioprinters.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus sidewalks are uneven and hazardous.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Undergrad research symposium was inspiring.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Political science debate team ranks #3 nationally.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Dorm thermostat wars cause floor arguments.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Scholarship thank-you letters must be handwritten.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free grocery delivery for students in need.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Astrophysics department discovered 3 exoplanets.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Art department figure models cancel often.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Emergency fund kept me from dropping out.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Karaoke nights at the student center are wild.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Neuroscience lab has fMRI access for undergrads.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm kitchen fire alarms trigger from toast.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free LinkedIn Premium for business majors.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Geology field trips to active volcanoes.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Campus pond ducks will steal your lunch.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Disability documentation requirements are excessive.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free menstrual products in all bathrooms.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Cybersecurity team won national capture-the-flag.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Dorm mailroom loses packages weekly.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Undocumented student support is lacking.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free winter coat closet prevents hypothermia.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Paleoclimate research uses Antarctic ice cores.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Music building pianos are out of tune.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus jobs pay below living wage.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free professional headshots for LinkedIn.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Forensic chemistry solves cold cases.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Gender-inclusive housing options expanded.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Parking ticket appeals require court appearances.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free flu shots at campus clinics.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "AI ethics course changed my career path.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm laundry app steals money.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "First-gen student support program is life-changing.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Marine biology lab has living coral reefs.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus construction noise starts at 7AM.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Emergency grants kept me from homelessness.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free grocery delivery for food-insecure students.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Quantum physics lab has photon detectors.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm elevators fail during fire drills.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Free therapy animal visits during finals.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Entrepreneurship pitch competition has $50K prize.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Campus trees are perfect for slacklining.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Parking permits cost more than textbooks.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free resume paper at career center.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Neuroscience research uses VR brain mapping.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Dorm package room loses Amazon deliveries.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Undocumented student legal clinic is confidential.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Midnight breakfast during finals week.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Cryptography class breaks real encryptions.",
+        "predicted_category": "Academics"
+    },
+    {
+        "feedback_text": "Gender-neutral bathrooms need more supplies.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Campus jobs don't accommodate class schedules.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free professional attire closet for interviews.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Paleontology field digs find real fossils.",
+        "predicted_category": "Facility"
+    },
+    {
+        "feedback_text": "Dorm heating fails in polar vortices.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "First-gen student mentorship program.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "AI art collaboration with music department.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Lecture hall seats are broken and wobbly.",
+        "predicted_category": "Facilities"
+    },
+    {
+        "feedback_text": "Emergency fund saved me from eviction.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free grocery shuttle to Trader Joe's.",
+        "predicted_category": "Student Life"
+    },
+    {
+        "feedback_text": "Robotics team builds Mars rover prototypes.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Dorm fire alarms trigger from hairspray.",
+        "predicted_category": "Administration"
+    },
+    {
+        "feedback_text": "Free meditation sessions with therapy dogs.",
+        "predicted_category": "Student Life"
+    }
+]

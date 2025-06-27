@@ -1,0 +1,251 @@
+feedback_id,feedback_text,category,department,rating,semester,student_type,predicted_category
+1,Physics professors explain complex topics clearly but lab equipment is outdated.,Academics,Physics,3,Fall 2023,Undergraduate,Academics
+2,New dorm buildings have great amenities but thin walls reduce privacy.,Facilities,Housing,4,Spring 2024,Freshman,Facilities
+3,Financial aid office takes 3+ weeks to respond to urgent requests.,Administration,Financial Aid,1,Fall 2023,Transfer,Administration
+4,International student orientation helped me settle in quickly.,Student Life,International Programs,5,Spring 2024,International,Student Life
+5,Chemistry lab safety protocols are extremely thorough.,Academics,Chemistry,5,Fall 2023,Graduate,Administration
+6,Library 24/7 access during finals week is a lifesaver.,Facilities,Library,5,Spring 2024,Senior,Student Life
+7,Transcript requests require in-person visits - needs digital option.,Administration,Registrar,2,Fall 2023,Junior,Administration
+8,Campus food trucks offer delicious diverse options.,Student Life,Dining,4,Spring 2024,Sophomore,Facilities
+9,Computer science curriculum needs more AI/ML course options.,Academics,Computer Science,3,Fall 2023,Graduate,Academics
+10,Dorm elevator outages leave disabled students stranded.,Facilities,Housing,1,Spring 2024,Freshman,Facilities
+11,Career center's interview workshops improved my skills.,Student Life,Career Services,5,Fall 2023,Senior,Student Life
+12,Math department tutoring center is understaffed.,Academics,Mathematics,2,Spring 2024,Sophomore,Facility
+13,New football stadium has amazing seating but poor concessions.,Facilities,Athletics,3,Fall 2023,Undergraduate,Facilities
+14,Scholarship portal crashes every deadline day.,Administration,Financial Aid,1,Spring 2024,Transfer,Administration
+15,Theater department productions are Broadway-quality.,Student Life,Performing Arts,5,Fall 2023,Junior,Administration
+16,Business school case studies feel 10 years outdated.,Academics,Business,2,Spring 2024,Graduate,Academics
+17,Campus shuttle system is unreliable after 8pm.,Facilities,Transportation,2,Fall 2023,Freshman,Facility
+18,Disability services quickly accommodated my needs.,Administration,Accessibility,5,Spring 2024,Senior,Student Life
+19,Student-run hackathons have great industry sponsors.,Student Life,Clubs,5,Fall 2023,Undergraduate,Student Life
+20,Psychology research opportunities exceed expectations.,Academics,Psychology,5,Spring 2024,Junior,Academics
+21,Lecture hall projectors fail at least once per week.,Facilities,Classrooms,1,Fall 2023,Sophomore,Facility
+22,Parking enforcement gives tickets too aggressively.,Administration,Public Safety,2,Spring 2024,Transfer,Administration
+23,Campus gardens provide peaceful study spaces.,Student Life,Sustainability,4,Fall 2023,International,Facilities
+24,Engineering capstone projects prepare you for real jobs.,Academics,Engineering,5,Spring 2024,Graduate,Student Life
+25,Dorm heating fails during coldest winter weeks.,Facilities,Housing,1,Fall 2023,Freshman,Facility
+26,Writing center helped me improve my thesis draft.,Student Life,Academic Support,5,Spring 2024,Senior,Facility
+27,Economics professors use current global examples.,Academics,Economics,5,Fall 2023,Undergraduate,Academics
+28,Science building restrooms are rarely cleaned.,Facilities,Science,1,Spring 2024,Junior,Facilities
+29,Work-study paychecks are often delayed.,Administration,Financial Aid,2,Fall 2023,Sophomore,Administration
+30,Cultural festivals showcase amazing diversity.,Student Life,Multicultural Affairs,5,Spring 2024,International,Student Life
+31,Nursing clinical rotations are exceptionally organized.,Academics,Nursing,5,Fall 2023,Graduate,Administration
+32,Wi-Fi drops constantly in humanities buildings.,Facilities,IT,1,Spring 2024,Freshman,Facilities
+33,Honors program advisors provide personalized guidance.,Administration,Honors College,5,Fall 2023,Senior,Administration
+34,Outdoor adventure club trips are unforgettable.,Student Life,Recreation,5,Spring 2024,Undergraduate,Student Life
+35,Journalism department's equipment is industry-standard.,Academics,Journalism,5,Fall 2023,Junior,Administration
+36,Cafeteria food quality declined this semester.,Student Life,Dining,2,Spring 2024,Sophomore,Facility
+37,Philosophy debates challenge thinking profoundly.,Academics,Philosophy,5,Fall 2023,Graduate,Academics
+38,Campus construction noise starts too early.,Facilities,Maintenance,2,Spring 2024,Transfer,Facilities
+39,Alumni networking events led to my internship.,Student Life,Career Services,5,Fall 2023,Senior,Student Life
+40,Statistics software licenses expire mid-semester.,Academics,Statistics,1,Spring 2024,Undergraduate,Administration
+41,New student center has excellent study pods.,Facilities,Student Union,5,Fall 2023,Freshman,Facilities
+42,Bursar's office still uses paper invoices.,Administration,Bursar,1,Spring 2024,Junior,Administration
+43,Meditation rooms help manage exam stress.,Student Life,Wellness,5,Fall 2023,International,Facilities
+44,Architecture studio spaces inspire creativity.,Academics,Architecture,5,Spring 2024,Graduate,Facility
+45,Dorm laundry machines eat quarters frequently.,Facilities,Housing,2,Fall 2023,Sophomore,Administration
+46,TA training doesn't cover grading consistency.,Administration,Academics,3,Spring 2024,Senior,Academics
+47,Improv comedy club is the highlight of my week.,Student Life,Clubs,5,Fall 2023,Undergraduate,Student Life
+48,Anthropology field trips are life-changing.,Academics,Anthropology,5,Spring 2024,Junior,Student Life
+49,Lecture capture tech fails during important exams.,Facilities,IT,1,Fall 2023,Transfer,Academics
+50,Parking ticket appeals take months to process.,Administration,Public Safety,1,Spring 2024,Freshman,Administration
+51,Free flu shots at campus clinics are convenient.,Student Life,Health Services,4,Fall 2023,Graduate,Facility
+52,Social work internships have strong community impact.,Academics,Social Work,5,Spring 2024,Senior,Student Life
+53,Stair railings in older darts are dangerously loose.,Facilities,Housing,1,Fall 2023,International,Administration
+54,Study abroad credit transfers are needlessly complex.,Administration,International Programs,2,Spring 2024,Undergraduate,Administration
+55,Black Student Union events are empowering.,Student Life,Multicultural Affairs,5,Fall 2023,Junior,Student Life
+56,Music practice rooms need better soundproofing.,Academics,Music,3,Spring 2024,Sophomore,Facilities
+57,New basketball court has professional flooring.,Facilities,Athletics,5,Fall 2023,Graduate,Facilities
+58,Double charges on meal plans take weeks to resolve.,Administration,Dining,1,Spring 2024,Freshman,Administration
+59,Free professional headshots boosted my LinkedIn.,Student Life,Career Services,5,Fall 2023,Senior,Student Life
+60,Linguistics department needs more faculty.,Academics,Linguistics,2,Spring 2024,Transfer,Academics
+61,All-gender restrooms are well maintained.,Facilities,Student Union,5,Fall 2023,Undergraduate,Facilities
+62,Major declaration process is confusing.,Administration,Academic Advising,2,Spring 2024,Junior,Administration
+63,Farmers market has fresh organic produce.,Student Life,Sustainability,4,Fall 2023,International,Facility
+64,Environmental science field equipment is outdated.,Academics,Environmental Science,2,Spring 2024,Graduate,Facility
+65,Campus-wide printer outages happen too often.,Facilities,IT,1,Fall 2023,Sophomore,Administration
+66,Disability accommodations are implemented promptly.,Administration,Accessibility,5,Spring 2024,Senior,Administration
+67,Poetry slams draw standing-room-only crowds.,Student Life,Arts,5,Fall 2023,Freshman,Administration
+68,Political science guest speakers are high-profile.,Academics,Political Science,5,Spring 2024,Undergraduate,Administration
+69,Science building bathrooms lack basic supplies.,Facilities,Science,1,Fall 2023,Transfer,Facilities
+70,Counseling center waitlists are 3+ weeks long.,Administration,Mental Health,2,Spring 2024,Junior,Administration
+71,Marching band builds incredible school spirit.,Student Life,Athletics,5,Fall 2023,Graduate,Student Life
+72,Creative writing workshops transformed my style.,Academics,English,5,Spring 2024,Senior,Student Life
+73,Dorm common areas need more comfortable seating.,Facilities,Housing,3,Fall 2023,International,Facilities
+74,Graduation clearance paperwork is excessive.,Administration,Registrar,1,Spring 2024,Sophomore,Administration
+75,Sustainability club's initiatives make real impact.,Student Life,Sustainability,5,Fall 2023,Freshman,Administration
+76,Astronomy telescopes need calibration.,Academics,Astronomy,3,Spring 2024,Undergraduate,Administration
+77,New meditation room has ocean sound machines.,Facilities,Wellness,5,Fall 2023,Graduate,Facilities
+78,Work-study payroll is frequently late.,Administration,Financial Aid,2,Spring 2024,Junior,Administration
+79,Volunteer opportunities are well organized.,Student Life,Community Service,5,Fall 2023,Senior,Student Life
+80,Nursing simulation labs are state-of-the-art.,Academics,Nursing,5,Spring 2024,Transfer,Facilities
+81,Dorm kitchenettes lack basic cooking tools.,Facilities,Housing,2,Fall 2023,International,Facility
+82,Honors thesis advisors are exceptionally supportive.,Administration,Honors College,5,Spring 2024,Graduate,Academics
+83,Campus art walks showcase student talent.,Student Life,Arts,4,Fall 2023,Sophomore,Student Life
+84,Journalism department's press passes open doors.,Academics,Journalism,5,Spring 2024,Freshman,Administration
+85,Lecture hall chairs are painfully uncomfortable.,Facilities,Classrooms,1,Fall 2023,Undergraduate,Facilities
+86,Parking permit system favors seniors unfairly.,Administration,Transportation,2,Spring 2024,Junior,Administration
+87,Peer tutoring saved my calculus grade.,Student Life,Academic Support,5,Fall 2023,Senior,Academics
+88,Music theory classes are unnecessarily difficult.,Academics,Music,2,Spring 2024,Graduate,Academics
+89,New rock-climbing wall is professionally designed.,Facilities,Recreation,5,Fall 2023,Transfer,Facilities
+90,Meal plan opt-out deadline is too early.,Administration,Dining,2,Spring 2024,International,Administration
+91,Debate team travels to national competitions.,Student Life,Clubs,5,Fall 2023,Freshman,Student Life
+92,Social work field placements are well-vetted.,Academics,Social Work,5,Spring 2024,Undergraduate,Administration
+93,Gender-neutral housing options are inclusive.,Facilities,Housing,5,Fall 2023,Sophomore,Facility
+94,Scholarship thank-you letters feel impersonal.,Administration,Development,3,Spring 2024,Junior,Student Life
+95,Free resume critiques improved my job prospects.,Student Life,Career Services,5,Fall 2023,Senior,Student Life
+96,History department's oral history projects fascinate.,Academics,History,5,Spring 2024,Graduate,Academics
+97,Older dorm elevators break down weekly.,Facilities,Housing,1,Fall 2023,Transfer,Facilities
+98,Academic probation notices lack guidance.,Administration,Academic Affairs,2,Spring 2024,International,Administration
+99,Campus sunrise yoga classes are rejuvenating.,Student Life,Wellness,5,Fall 2023,Freshman,Student Life
+100,Industrial engineering labs need equipment upgrades.,Academics,Engineering,3,Spring 2024,Undergraduate,Facility
+101,The astronomy observatory has outdated telescopes but passionate instructors.,Academics,Astronomy,3,Fall 2023,Undergraduate,Student Life
+102,New science building's glass walls create distracting glare.,Facilities,Science,2,Spring 2024,Graduate,Facility
+103,Veteran services office processes GI Bill payments slowly.,Administration,Veteran Affairs,2,Fall 2023,Transfer,Administration
+104,Quidditch club tournaments are surprisingly competitive.,Student Life,Clubs,5,Spring 2024,Freshman,Student Life
+105,Marketing professors bring real corporate experience.,Academics,Business,5,Fall 2023,Senior,Academics
+106,Dorm fire alarms trigger from shower steam.,Facilities,Housing,1,Spring 2024,Sophomore,Administration
+107,Internship credit approval requires excessive paperwork.,Administration,Academic Advising,2,Fall 2023,Junior,Administration
+108,Free midnight breakfast during finals reduces stress.,Student Life,Dining,5,Spring 2024,International,Student Life
+109,Neuroscience research opportunities attract top students.,Academics,Psychology,5,Fall 2023,Graduate,Academics
+110,Art studio kilns break down mid-semester.,Facilities,Arts,2,Spring 2024,Undergraduate,Facilities
+111,Campus safety escorts respond within 5 minutes.,Administration,Public Safety,5,Fall 2023,Freshman,Administration
+112,A cappella concerts sell out instantly.,Student Life,Performing Arts,5,Spring 2024,Senior,Administration
+113,Machine learning courses use cutting-edge frameworks.,Academics,Computer Science,5,Fall 2023,Graduate,Academics
+114,Chemistry lab fume hoods malfunction frequently.,Facilities,Science,1,Spring 2024,Junior,Facility
+115,TA union strikes disrupted lab sessions.,Administration,Academics,1,Fall 2023,Transfer,Administration
+116,Medieval combat club is oddly popular.,Student Life,Recreation,4,Spring 2024,Sophomore,Student Life
+117,Biochemistry research has Nobel-winning faculty.,Academics,Biology,5,Fall 2023,Undergraduate,Academics
+118,Campus bike share stations are never balanced.,Facilities,Transportation,2,Spring 2024,Freshman,Facilities
+119,Disability accommodations require yearly reapproval.,Administration,Accessibility,3,Fall 2023,Senior,Administration
+120,Drag show fundraiser broke attendance records.,Student Life,LGBTQ+ Center,5,Spring 2024,Graduate,Administration
+121,Philosophy department hosts renowned ethicists.,Academics,Philosophy,5,Fall 2023,International,Academics
+122,Lecture hall seats are bolted too close together.,Facilities,Classrooms,1,Spring 2024,Junior,Facilities
+123,Study abroad scholarships are poorly advertised.,Administration,International Programs,2,Fall 2023,Sophomore,Student Life
+124,Student-run cafe has the best chai lattes.,Student Life,Dining,5,Spring 2024,Freshman,Student Life
+125,Forensic science lab has crime scene simulations.,Academics,Criminal Justice,5,Fall 2023,Undergraduate,Facility
+126,Dorm WiFi can't handle gaming consoles.,Facilities,IT,2,Spring 2024,Transfer,Facility
+127,Parking appeals require notarized statements.,Administration,Public Safety,1,Fall 2023,Senior,Administration
+128,Sunset yoga at the quad is magical.,Student Life,Wellness,5,Spring 2024,Graduate,Student Life
+129,Robotics team wins national championships.,Academics,Engineering,5,Fall 2023,Junior,Administration
+130,Music practice rooms smell like old instruments.,Facilities,Arts,2,Spring 2024,Sophomore,Facilities
+131,Honors thesis defenses are scheduled during finals.,Administration,Honors College,2,Fall 2023,Freshman,Academics
+132,Free professional headshots helped my LinkedIn.,Student Life,Career Services,5,Spring 2024,Undergraduate,Student Life
+133,Marine biology field trips to the coast.,Academics,Biology,5,Fall 2023,International,Student Life
+134,Gender-neutral bathrooms lack period products.,Facilities,Student Union,3,Spring 2024,Senior,Facilities
+135,Late graduation applications incur $200 fees.,Administration,Registrar,1,Fall 2023,Transfer,Administration
+136,Annual mud volleyball tournament is legendary.,Student Life,Athletics,5,Spring 2024,Graduate,Student Life
+137,AI ethics course changed my career path.,Academics,Computer Science,5,Fall 2023,Junior,Academics
+138,Dorm washing machines eat quarters.,Facilities,Housing,2,Spring 2024,Sophomore,Facility
+139,Financial literacy workshops are life-changing.,Student Life,Career Services,5,Fall 2023,Freshman,Administration
+140,Theatre costume shop has professional gear.,Academics,Performing Arts,5,Spring 2024,Undergraduate,Facility
+141,Campus construction detours add 15min to walks.,Facilities,Maintenance,2,Fall 2023,Senior,Administration
+142,Scholarship thank-you events feel transactional.,Administration,Development,3,Spring 2024,International,Student Life
+143,Free grocery shuttle helps food-insecure students.,Student Life,Sustainability,5,Fall 2023,Graduate,Student Life
+144,Cryptography course uses real NSA challenges.,Academics,Computer Science,5,Spring 2024,Junior,Academics
+145,Bio lab autoclaves are constantly backlogged.,Facilities,Science,2,Fall 2023,Sophomore,Facility
+146,Campus jobs pay below minimum wage.,Administration,Financial Aid,1,Spring 2024,Freshman,Administration
+147,Black cultural house hosts amazing poets.,Student Life,Multicultural Affairs,5,Fall 2023,Undergraduate,Student Life
+148,Paleontology lab has real dinosaur fossils.,Academics,Geology,5,Spring 2024,Senior,Facility
+149,Dorm thermostats are locked at 72°F.,Facilities,Housing,2,Fall 2023,Transfer,Administration
+150,Mental health counselors are overbooked.,Administration,Health Services,2,Spring 2024,Graduate,Administration
+151,Farmers market accepts meal plan dollars.,Student Life,Dining,4,Fall 2023,Junior,Administration
+152,Entrepreneurship program secured my startup funding.,Academics,Business,5,Spring 2024,Sophomore,Administration
+153,Art gallery opening nights have free catering.,Student Life,Arts,5,Fall 2023,Freshman,Student Life
+154,Physics demo lab equipment is from the 1990s.,Academics,Physics,2,Spring 2024,Undergraduate,Facility
+155,Campus trees are perfect for hammocking.,Facilities,Recreation,5,Fall 2023,Senior,Facilities
+156,Add/drop period is only 3 days long.,Administration,Registrar,2,Spring 2024,International,Administration
+157,Free STD testing at health center is discreet.,Student Life,Health Services,5,Fall 2023,Graduate,Facility
+158,Arabic language program has native instructors.,Academics,Languages,5,Spring 2024,Junior,Academics
+159,Dorm package room loses deliveries weekly.,Facilities,Housing,1,Fall 2023,Sophomore,Facility
+160,Student legal services helped with my lease.,Administration,Student Affairs,5,Spring 2024,Freshman,Administration
+161,Midnight breakfast during finals week rocks.,Student Life,Dining,5,Fall 2023,Undergraduate,Student Life
+162,Cybersecurity lab simulates real hacker attacks.,Academics,Computer Science,5,Spring 2024,Senior,Administration
+163,Chemistry stockroom often lacks basic supplies.,Facilities,Science,2,Fall 2023,Transfer,Administration
+164,Commencement speaker selection lacks diversity.,Administration,Events,3,Spring 2024,Graduate,Administration
+165,Salsa dancing classes fill immediately.,Student Life,Recreation,5,Fall 2023,Junior,Student Life
+166,Forensic anthropology lab has real case files.,Academics,Anthropology,5,Spring 2024,Sophomore,Facility
+167,Dorm recycling bins are always overflowing.,Facilities,Sustainability,2,Fall 2023,Freshman,Administration
+168,TA strike canceled my midterm review.,Administration,Academics,1,Spring 2024,Undergraduate,Administration
+169,Free bike repair clinics save hundreds.,Student Life,Transportation,5,Fall 2023,Senior,Facility
+170,Actuarial science exam pass rates are 90%+.,Academics,Mathematics,5,Spring 2024,International,Academics
+171,Lecture hall screens have dead pixels.,Facilities,Classrooms,2,Fall 2023,Graduate,Facility
+172,Ombudsman resolved my grade dispute fairly.,Administration,Academic Affairs,5,Spring 2024,Junior,Administration
+173,Campus dogs reduce stress during finals.,Student Life,Wellness,5,Fall 2023,Sophomore,Student Life
+174,Climate change research gets NSF grants.,Academics,Environmental Science,5,Spring 2024,Freshman,Administration
+175,Dorm fire drills at 2AM are excessive.,Facilities,Housing,1,Fall 2023,Undergraduate,Administration
+176,Food pantry prevents student hunger.,Student Life,Sustainability,5,Spring 2024,Senior,Administration
+177,Quantum computing course uses real IBM QPUs.,Academics,Physics,5,Fall 2023,Graduate,Academics
+178,Music building practice rooms are soundproofed.,Facilities,Arts,5,Spring 2024,Transfer,Facilities
+179,Work-study jobs favor certain majors unfairly.,Administration,Financial Aid,2,Fall 2023,Junior,Academics
+180,Free meditation app subscription for students.,Student Life,Wellness,4,Spring 2024,Sophomore,Student Life
+181,Patent law clinic helped file my invention.,Academics,Law,5,Fall 2023,Senior,Administration
+182,Botany greenhouse has rare carnivorous plants.,Facilities,Science,5,Spring 2024,Freshman,Facilities
+183,COVID quarantine meals were inedible.,Administration,Health Services,1,Fall 2023,Undergraduate,Administration
+184,International food fair had 50+ countries represented.,Student Life,Multicultural Affairs,5,Spring 2024,International,Administration
+185,Game design program has industry mentors.,Academics,Computer Science,5,Fall 2023,Graduate,Educational
+186,Dorm elevators fail during move-in week.,Facilities,Housing,1,Spring 2024,Junior,Facilities
+187,Free Microsoft Office licenses for all students.,Administration,IT,5,Fall 2023,Sophomore,Administration
+188,Historical sword fighting club is intense.,Student Life,Clubs,4,Spring 2024,Freshman,Student Life
+189,Biomedical engineering lab has 3D bioprinters.,Academics,Engineering,5,Fall 2023,Senior,Facility
+190,Campus sidewalks are uneven and hazardous.,Facilities,Maintenance,1,Spring 2024,Transfer,Facilities
+191,Undergrad research symposium was inspiring.,Student Life,Academic Support,5,Fall 2023,Graduate,Student Life
+192,Political science debate team ranks #3 nationally.,Academics,Political Science,5,Spring 2024,Undergraduate,Administration
+193,Dorm thermostat wars cause floor arguments.,Facilities,Housing,2,Fall 2023,Junior,Administration
+194,Scholarship thank-you letters must be handwritten.,Administration,Development,2,Spring 2024,Sophomore,Administration
+195,Free grocery delivery for students in need.,Student Life,Sustainability,5,Fall 2023,Freshman,Student Life
+196,Astrophysics department discovered 3 exoplanets.,Academics,Physics,5,Spring 2024,Senior,Academics
+197,Art department figure models cancel often.,Facilities,Arts,2,Fall 2023,International,Administration
+198,Emergency fund kept me from dropping out.,Administration,Student Affairs,5,Spring 2024,Graduate,Student Life
+199,Karaoke nights at the student center are wild.,Student Life,Events,5,Fall 2023,Junior,Student Life
+200,Neuroscience lab has fMRI access for undergrads.,Academics,Psychology,5,Spring 2024,Sophomore,Facility
+201,Dorm kitchen fire alarms trigger from toast.,Facilities,Housing,1,Fall 2023,Freshman,Administration
+202,Free LinkedIn Premium for business majors.,Student Life,Career Services,5,Spring 2024,Undergraduate,Student Life
+203,Geology field trips to active volcanoes.,Academics,Geology,5,Fall 2023,Senior,Student Life
+204,Campus pond ducks will steal your lunch.,Facilities,Recreation,3,Spring 2024,Transfer,Facility
+205,Disability documentation requirements are excessive.,Administration,Accessibility,2,Fall 2023,Graduate,Administration
+206,Free menstrual products in all bathrooms.,Student Life,Health Services,5,Spring 2024,Junior,Facility
+207,Cybersecurity team won national capture-the-flag.,Academics,Computer Science,5,Fall 2023,Sophomore,Administration
+208,Dorm mailroom loses packages weekly.,Facilities,Housing,1,Spring 2024,Freshman,Facility
+209,Undocumented student support is lacking.,Administration,Diversity,2,Fall 2023,International,Administration
+210,Free winter coat closet prevents hypothermia.,Student Life,Sustainability,5,Spring 2024,Senior,Student Life
+211,Paleoclimate research uses Antarctic ice cores.,Academics,Environmental Science,5,Fall 2023,Graduate,Administration
+212,Music building pianos are out of tune.,Facilities,Arts,2,Spring 2024,Undergraduate,Administration
+213,Campus jobs pay below living wage.,Administration,Financial Aid,1,Fall 2023,Junior,Administration
+214,Free professional headshots for LinkedIn.,Student Life,Career Services,5,Spring 2024,Sophomore,Administration
+215,Forensic chemistry solves cold cases.,Academics,Chemistry,5,Fall 2023,Freshman,Academics
+216,Gender-inclusive housing options expanded.,Facilities,Housing,5,Spring 2024,Transfer,Administration
+217,Parking ticket appeals require court appearances.,Administration,Public Safety,1,Fall 2023,Senior,Administration
+218,Free flu shots at campus clinics.,Student Life,Health Services,5,Spring 2024,Graduate,Student Life
+219,AI ethics course changed my career path.,Academics,Computer Science,5,Fall 2023,International,Academics
+220,Dorm laundry app steals money.,Facilities,Housing,1,Spring 2024,Junior,Administration
+221,First-gen student support program is life-changing.,Student Life,Academic Support,5,Fall 2023,Sophomore,Student Life
+222,Marine biology lab has living coral reefs.,Academics,Biology,5,Spring 2024,Freshman,Facility
+223,Campus construction noise starts at 7AM.,Facilities,Maintenance,2,Fall 2023,Undergraduate,Administration
+224,Emergency grants kept me from homelessness.,Administration,Student Affairs,5,Spring 2024,Senior,Administration
+225,Free grocery delivery for food-insecure students.,Student Life,Sustainability,5,Fall 2023,Transfer,Student Life
+226,Quantum physics lab has photon detectors.,Academics,Physics,5,Spring 2024,Graduate,Facility
+227,Dorm elevators fail during fire drills.,Facilities,Housing,1,Fall 2023,Junior,Facilities
+228,Free therapy animal visits during finals.,Student Life,Wellness,5,Spring 2024,Sophomore,Student Life
+229,Entrepreneurship pitch competition has $50K prize.,Academics,Business,5,Fall 2023,Freshman,Administration
+230,Campus trees are perfect for slacklining.,Facilities,Recreation,5,Spring 2024,International,Facilities
+231,Parking permits cost more than textbooks.,Administration,Transportation,1,Fall 2023,Senior,Administration
+232,Free resume paper at career center.,Student Life,Career Services,5,Spring 2024,Undergraduate,Student Life
+233,Neuroscience research uses VR brain mapping.,Academics,Psychology,5,Fall 2023,Graduate,Academics
+234,Dorm package room loses Amazon deliveries.,Facilities,Housing,1,Spring 2024,Junior,Administration
+235,Undocumented student legal clinic is confidential.,Administration,Diversity,5,Fall 2023,Sophomore,Facility
+236,Midnight breakfast during finals week.,Student Life,Dining,5,Spring 2024,Freshman,Student Life
+237,Cryptography class breaks real encryptions.,Academics,Computer Science,5,Fall 2023,Transfer,Academics
+238,Gender-neutral bathrooms need more supplies.,Facilities,Student Union,3,Spring 2024,Senior,Facility
+239,Campus jobs don't accommodate class schedules.,Administration,Financial Aid,2,Fall 2023,Graduate,Administration
+240,Free professional attire closet for interviews.,Student Life,Career Services,5,Spring 2024,International,Student Life
+241,Paleontology field digs find real fossils.,Academics,Geology,5,Fall 2023,Junior,Facility
+242,Dorm heating fails in polar vortices.,Facilities,Housing,1,Spring 2024,Sophomore,Administration
+243,First-gen student mentorship program.,Student Life,Academic Support,5,Fall 2023,Freshman,Administration
+244,AI art collaboration with music department.,Academics,Arts,5,Spring 2024,Undergraduate,Student Life
+245,Lecture hall seats are broken and wobbly.,Facilities,Classrooms,1,Fall 2023,Senior,Facilities
+246,Emergency fund saved me from eviction.,Administration,Student Affairs,5,Spring 2024,Transfer,Administration
+247,Free grocery shuttle to Trader Joe's.,Student Life,Sustainability,5,Fall 2023,Graduate,Student Life
+248,Robotics team builds Mars rover prototypes.,Academics,Engineering,5,Spring 2024,Junior,Administration
+249,Dorm fire alarms trigger from hairspray.,Facilities,Housing,1,Fall 2023,Sophomore,Administration
+250,Free meditation sessions with therapy dogs.,Student Life,Wellness,5,Spring 2024,Freshman,Student Life
