@@ -1,9 +1,8 @@
-# %%
+
 # Install necessary packages for the project
 
 # %pip install transformers pandas scikit-learn matplotlib
 
-# %%
 # import necessary libraries and load the dataset
 import pandas as pd
 
@@ -13,7 +12,6 @@ df = pd.read_csv('college_feedbacks.csv')
 df.head()
 
 
-# %%
 # import necessary libraries for model
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import torch
@@ -24,7 +22,6 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 
-# %%
 # The function will creat a few shot prompt for the model
 
 def create_prompt(feedback):
@@ -63,7 +60,6 @@ Feedback: "{feedback}"
 Category:"""
 
 
-# %%
 # Function to classify feedback using the model
 
 def classify_feedback(feedback_text):
@@ -73,7 +69,6 @@ def classify_feedback(feedback_text):
     result = tokenizer.decode(output_ids[0], skip_special_tokens=True)
     return result.strip()
 
-# %%
 # Example usage
 print(classify_feedback("The mentorship program is very helpful for career guidance."))
 print(classify_feedback("Hostel food quality has improved but still needs work."))
@@ -81,7 +76,6 @@ print(classify_feedback("The admin is slow in responding to our queries."))
 print(classify_feedback("The club activities are too hectic and not well organized, taking too much time away from studies."))
 
 
-# %%
 # test the dataset with the model to classify feedbacks
 
 def test_dataset():
@@ -102,8 +96,6 @@ print()
 pd.read_csv("tested_feedbacks.csv").head()
 
 
-# %%
-
 # visualization of the results using matplotlib
 import matplotlib.pyplot as plt
 # compare the predicted categories with the actual categories
@@ -121,7 +113,6 @@ def compare_categories():
 
 compare_categories()
 
-# %%
 # classification report to evaluate the model's performance
 from sklearn.metrics import classification_report
 def evaluate_model():
@@ -130,7 +121,7 @@ def evaluate_model():
 
 evaluate_model()
 
-# %%
+
 # export the json
 import json
 def export_to_json():
@@ -140,11 +131,6 @@ def export_to_json():
     print("Exported classified feedbacks to json_test_feedbacks.json")
 
 export_to_json()
-
-# %%
-
-
-# %%
 
 
 
