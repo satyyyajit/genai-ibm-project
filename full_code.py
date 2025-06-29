@@ -49,7 +49,7 @@ Feedback: "The professors are very knowledgeable but the lectures are too fast-p
 Category: Academics
 
 Feedback: "The lectures are too rushed and we barely understand the core concepts."  
-Category: Academics
+Category: Academics 
 
 Feedback: "I feel overwhelmed and there's no proper counseling support."  
 Category: Student Life
