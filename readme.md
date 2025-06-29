@@ -1,12 +1,3 @@
-Here’s the updated `README.md` including:
-
-- Dataset Information  
-- Working (Step-by-step)  
-- How to Use the Project  
-
----
-
-```markdown
 # 🎓 College Feedback Classifier
 
 A Generative AI-based project that automatically classifies student feedback into categories such as Academics, Facilities, Administration, and Student Life using the FLAN-T5 base model and prompt engineering techniques.
@@ -56,7 +47,6 @@ It includes the following columns:
 7. Visualize prediction performance using bar charts.
 8. Evaluate accuracy with scikit-learn's classification report.
 
----
 
 ## 🧰 Tools & Technologies Used
 
